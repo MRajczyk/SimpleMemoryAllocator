@@ -1,0 +1,3 @@
+C:/Users/rajsi/Desktop/studia/sem3/Sop2/projekt1_19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rajsi/Desktop/studia/sem3/Sop2/projekt1_19/cmake-build-debug/CMakeFiles/project1.dir
+C:/Users/rajsi/Desktop/studia/sem3/Sop2/projekt1_19/cmake-build-debug/CMakeFiles/edit_cache.dir

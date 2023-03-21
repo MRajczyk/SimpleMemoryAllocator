@@ -1,0 +1,400 @@
+	   0000  72 6e 20 77 68 69 63 68 20 73 77 65 6c 6c 73 0a </span> rn which swells.
+       0010  44 75 65 20 66 72 6f 6d 20 74 68 65 20 70 6f 6c </span> Due from the pol
+       0020  65 2c 20 72 6f 75 6e 64 20 77 68 69 63 68 20 74 </span> e, round which t
+       0030  68 65 20 66 69 72 73 74 20 77 68 65 65 6c 20 72 </span> he first wheel r
+       0040  6f 6c 6c 73 2c 0a 54 27 20 68 61 76 65 20 72 61 </span> olls,.T' have ra
+       0050  6e 67 27 64 20 74 68 65 6d 73 65 6c 76 65 73 20 </span> ng'd themselves 
+       0060  69 6e 20 66 61 73 68 69 6f 6e 20 6f 66 20 74 77 </span> in fashion of tw
+       0070  6f 20 73 69 67 6e 73 0a 49 6e 20 68 65 61 76 27 </span> o signs.In heav'
+       0080  6e 2c 20 73 75 63 68 20 61 73 20 41 72 69 61 64 </span> n, such as Ariad
+       0090  6e 65 20 6d 61 64 65 2c 0a 57 68 65 6e 20 64 65 </span> ne made,.When de
+       00a0  61 74 68 27 73 20 63 68 69 6c 6c 20 73 65 69 7a </span> ath's chill seiz
+       00b0  65 64 20 68 65 72 3b 20 61 6e 64 20 74 68 61 74 </span> ed her; and that
+       00c0  20 6f 6e 65 20 6f 66 20 74 68 65 6d 0a 44 69 64 </span>  one of them.Did
+       00d0  20 63 6f 6d 70 61 73 73 20 69 6e 20 74 68 65 20   compass in the 
+       00e0  6f 74 68 65 72 27 73 20 62 65 61 6d 3b 20 61 6e </span> other's beam; an
+       00f0  64 20 62 6f 74 68 0a 49 6e 20 73 75 63 68 20 73 </span> d both.In such s
+       0100  6f 72 74 20 77 68 69 72 6c 20 61 72 6f 75 6e 64 </span> ort whirl around
+       0110  2c 20 74 68 61 74 20 65 61 63 68 20 73 68 6f 75 </span> , that each shou
+       0120  6c 64 20 74 65 6e 64 0a 57 69 74 68 20 6f 70 70 </span> ld tend.With opp
+       0130  6f 73 69 74 65 20 6d 6f 74 69 6f 6e 20 61 6e 64 </span> osite motion and
+       0140  2c 20 63 6f 6e 63 65 69 76 69 6e 67 20 74 68 75 </span> , conceiving thu
+       0150  73 2c 0a 4f 66 20 74 68 61 74 20 74 72 75 65 20 </span> s,.Of that true 
+       0160  63 6f 6e 73 74 65 6c 6c 61 74 69 6f 6e 2c 20 61 </span> constellation, a
+       0170  6e 64 20 74 68 65 20 64 61 6e 63 65 0a 54 77 6f </span> nd the dance.Two
+       0180  66 6f 6c 64 2c 20 74 68 61 74 20 63 69 72 63 6c </span> fold, that circl
+       0190  65 64 20 6d 65 2c 20 68 65 20 73 68 61 6c 6c 20 </span> ed me, he shall 
+       01a0  61 74 74 61 69 6e 0a 41 73 20 27 74 20 77 65 72 </span> attain.As 't wer
+       01b0  65 20 74 68 65 20 73 68 61 64 6f 77 3b 20 66 6f </span> e the shadow; fo
+       01c0  72 20 74 68 69 6e 67 73 20 74 68 65 72 65 20 61 </span> r things there a
+       01d0  73 20 6d 75 63 68 0a 53 75 72 70 61 73 73 20 6f </span> s much.Surpass o
+       01e0  75 72 20 75 73 61 67 65 2c 20 61 73 20 74 68 65 </span> ur usage, as the
+       01f0  20 73 77 69 66 74 65 73 74 20 68 65 61 76 27 6e </span>  swiftest heav'n
+       0200  0a 49 73 20 73 77 69 66 74 65 72 20 74 68 61 6e </span> .Is swifter than
+       0210  20 74 68 65 20 43 68 69 61 6e 61 2e 20 20 54 68 </span>  the Chiana.  Th
+       0220  65 72 65 20 77 61 73 20 73 75 6e 67 0a 4e 6f 20 </span> ere was sung.No 
+       0230  42 61 63 63 68 75 73 2c 20 61 6e 64 20 6e 6f 20 </span> Bacchus, and no 
+       0240  49 6f 20 50 61 65 61 6e 2c 20 62 75 74 0a 54 68 </span> Io Paean, but.Th
+       0250  72 65 65 20 50 65 72 73 6f 6e 73 20 69 6e 20 74 </span> ree Persons in t
+       0260  68 65 20 47 6f 64 68 65 61 64 2c 20 61 6e 64 20 </span> he Godhead, and 
+       0270  69 6e 20 6f 6e 65 0a 53 75 62 73 74 61 6e 63 65 </span> in one.Substance
+       0280  20 74 68 61 74 20 6e 61 74 75 72 65 20 61 6e 64   that nature and
+       0290  20 74 68 65 20 68 75 6d 61 6e 20 6a 6f 69 6e 27 </span>  the human join'
+       02a0  64 2e 0a 20 20 20 20 20 54 68 65 20 73 6f 6e 67 </span> d..     The song
+       02b0  20 66 75 6c 66 69 6c 6c 27 64 20 69 74 73 20 6d </span>  fulfill'd its m
+       02c0  65 61 73 75 72 65 3b 20 61 6e 64 20 74 6f 20 75 </span> easure; and to u
+       02d0  73 0a 54 68 6f 73 65 20 73 61 69 6e 74 6c 79 20  s.Those saintly 
+       02e0  6c 69 67 68 74 73 20 61 74 74 65 6e 64 65 64 2c </span> lights attended,
+       02f0  20 68 61 70 70 69 65 72 20 6d 61 64 65 0a 41 74 </span>  happier made.At
+       0300  20 65 61 63 68 20 6e 65 77 20 6d 69 6e 69 73 74 </span>  each new minist
+       0310  27 72 69 6e 67 2e 20 20 54 68 65 6e 20 73 69 6c </span> 'ring.  Then sil
+       0320  65 6e 63 65 20 62 72 61 6b 65 2c 0a 41 6d 69 64 </span> ence brake,.Amid
+       0330  20 74 68 27 20 61 63 63 6f 72 64 61 6e 74 20 73 </span>  th' accordant s
+       0340  6f 6e 73 20 6f 66 20 44 65 69 74 79 2c 0a 54 68 </span> ons of Deity,.Th
+       0350  61 74 20 6c 75 6d 69 6e 61 72 79 2c 20 69 6e 20  at luminary, in 
+       0360  77 68 69 63 68 20 74 68 65 20 77 6f 6e 64 72 6f </span> which the wondro
+       0370  75 73 20 6c 69 66 65 0a 4f 66 20 74 68 65 20 6d </span> us life.Of the m
+       0380  65 65 6b 20 6d 61 6e 20 6f 66 20 47 6f 64 20 77 </span> eek man of God w
+       0390  61 73 20 74 6f 6c 64 20 74 6f 20 6d 65 3b 0a 41 </span> as told to me;.A
+       03a0  6e 64 20 74 68 75 73 20 69 74 20 73 70 61 6b 65 </span> nd thus it spake
+       03b0  3a 20 20 22 4f 6e 65 20 65 61 72 20 6f 27 20 74 </span> :  "One ear o' t
+       03c0  68 27 20 68 61 72 76 65 73 74 20 74 68 72 65 73 </span> h' harvest thres
+       03d0  68 27 64 2c 0a 41 6e 64 20 69 74 73 20 67 72 61 </span> h'd,.And its gra
+       03e0  69 6e 20 73 61 66 65 6c 79 20 73 74 6f 72 27 64 </span> in safely stor'd
+       03f0  2c 20 73 77 65 65 74 20 63 68 61 72 69 74 79 0a </span> , sweet charity.
+       0400  49 6e 76 69 74 65 73 20 6d 65 20 77 69 74 68 20 </span> Invites me with 
+       0410  74 68 65 20 6f 74 68 65 72 20 74 6f 20 6c 69 6b </span> the other to lik
+       0420  65 20 74 6f 69 6c 2e 0a 20 20 20 20 20 22 54 68 </span> e toil..     "Th
+       0430  6f 75 20 6b 6e 6f 77 27 73 74 2c 20 74 68 61 74 </span> ou know'st, that
+       0440  20 69 6e 20 74 68 65 20 62 6f 73 6f 6d 2c 20 77 </span>  in the bosom, w
+       0450  68 65 6e 63 65 20 74 68 65 20 72 69 62 0a 57 61 </span> hence the rib.Wa
+       0460  73 20 74 61 27 65 6e 20 74 6f 20 66 61 73 68 69 </span> s ta'en to fashi
+       0470  6f 6e 20 74 68 61 74 20 66 61 69 72 20 63 68 65 </span> on that fair che
+       0480  65 6b 2c 20 77 68 6f 73 65 20 74 61 73 74 65 0a </span> ek, whose taste.
+       0490  41 6c 6c 20 74 68 65 20 77 6f 72 6c 64 20 70 61 </span> All the world pa
+       04a0  79 73 20 66 6f 72 2c 20 61 6e 64 20 69 6e 20 74 </span> ys for, and in t
+       04b0  68 61 74 2c 20 77 68 69 63 68 20 70 69 65 72 63 </span> hat, which pierc
+       04c0  27 64 0a 42 79 20 74 68 65 20 6b 65 65 6e 20 6c </span> 'd.By the keen l
+       04d0  61 6e 63 65 2c 20 62 6f 74 68 20 61 66 74 65 72 </span> ance, both after
+       04e0  20 61 6e 64 20 62 65 66 6f 72 65 0a 53 75 63 68 </span>  and before.Such
+       04f0  20 73 61 74 69 73 66 61 63 74 69 6f 6e 20 6f 66 </span>  satisfaction of
+       0500  66 65 72 27 64 2c 20 61 73 20 6f 75 74 77 65 69 </span> fer'd, as outwei
+       0510  67 68 73 0a 45 61 63 68 20 65 76 69 6c 20 69 6e </span> ghs.Each evil in
+       0520  20 74 68 65 20 73 63 61 6c 65 2c 20 77 68 61 74 </span>  the scale, what
+       0530  65 27 65 72 20 6f 66 20 6c 69 67 68 74 0a 54 6f </span> e'er of light.To
+       0540  20 68 75 6d 61 6e 20 6e 61 74 75 72 65 20 69 73 </span>  human nature is
+       0550  20 61 6c 6c 6f 77 27 64 2c 20 6d 75 73 74 20 61 </span>  allow'd, must a
+       0560  6c 6c 0a 48 61 76 65 20 62 79 20 68 69 73 20 76 </span> ll.Have by his v
+       0570  69 72 74 75 65 20 62 65 65 6e 20 69 6e 66 75 73 </span> irtue been infus
+       0580  27 64 2c 20 77 68 6f 20 66 6f 72 6d 27 64 0a 42 </span> 'd, who form'd.B
+       0590  6f 74 68 20 6f 6e 65 20 61 6e 64 20 6f 74 68 65 </span> oth one and othe
+       05a0  72 3a 20 61 6e 64 20 74 68 6f 75 20 74 68 65 6e </span> r: and thou then
+       05b0  63 65 20 61 64 6d 69 72 27 73 74 0a 49 6e 20 74 </span> ce admir'st.In t
+       05c0  68 61 74 20 49 20 74 6f 6c 64 20 74 68 65 65 2c </span> hat I told thee,
+       05d0  20 6f 66 20 62 65 61 74 69 74 75 64 65 73 0a 41 </span>  of beatitudes.A
+       05e0  20 73 65 63 6f 6e 64 2c 20 74 68 65 72 65 20 69 </span>  second, there i
+       05f0  73 20 6e 6f 6e 65 2c 20 74 6f 20 68 69 73 20 65 </span> s none, to his e
+       0600  6e 63 6c 6f 73 27 64 0a 49 6e 20 74 68 65 20 66 </span> nclos'd.In the f
+       0610  69 66 74 68 20 72 61 64 69 61 6e 63 65 2e 20 20 </span> ifth radiance.  
+       0620  4f 70 65 6e 20 6e 6f 77 20 74 68 69 6e 65 20 65 </span> Open now thine e
+       0630  79 65 73 0a 54 6f 20 77 68 61 74 20 49 20 61 6e </span> yes.To what I an
+       0640  73 77 65 72 20 74 68 65 65 3b 20 61 6e 64 20 74 </span> swer thee; and t
+       0650  68 6f 75 20 73 68 61 6c 74 20 73 65 65 0a 54 68 </span> hou shalt see.Th
+       0660  79 20 64 65 65 6d 69 6e 67 20 61 6e 64 20 6d 79 </span> y deeming and my
+       0670  20 73 61 79 69 6e 67 20 6d 65 65 74 20 69 6e 20 </span>  saying meet in 
+       0680  74 72 75 74 68 2c 0a 41 73 20 63 65 6e 74 72 65 </span> truth,.As centre
+       0690  20 69 6e 20 74 68 65 20 72 6f 75 6e 64 2e 20 20 </span>  in the round.  
+       06a0  54 68 61 74 20 77 68 69 63 68 20 64 69 65 73 20 </span> That which dies 
+       06b0  6e 6f 74 2c 0a 41 6e 64 20 74 68 61 74 20 77 68 </span> not,.And that wh
+       06c0  69 63 68 20 63 61 6e 20 64 69 65 2c 20 61 72 65 </span> ich can die, are
+       06d0  20 62 75 74 20 65 61 63 68 20 74 68 65 20 62 65 </span>  but each the be
+       06e0  61 6d 0a 4f 66 20 74 68 61 74 20 69 64 65 61 2c </span> am.Of that idea,
+       06f0  20 77 68 69 63 68 20 6f 75 72 20 53 6f 76 65 72 </span>  which our Sover
+       0700  69 67 6e 20 53 69 72 65 0a 45 6e 67 65 6e 64 65 </span> ign Sire.Engende
+       0710  72 65 74 68 20 6c 6f 76 69 6e 67 3b 20 66 6f 72 </span> reth loving; for
+       0720  20 74 68 61 74 20 6c 69 76 65 6c 79 20 6c 69 67 </span>  that lively lig
+       0730  68 74 2c 0a 57 68 69 63 68 20 70 61 73 73 65 74 </span> ht,.Which passet
+       0740  68 20 66 72 6f 6d 20 68 69 73 20 62 72 69 67 68 </span> h from his brigh
+       0750  74 6e 65 73 73 3b 20 6e 6f 74 20 64 69 73 6a 6f </span> tness; not disjo
+       0760  69 6e 27 64 0a 46 72 6f 6d 20 68 69 6d 2c 20 6e </span> in'd.From him, n
+       0770  6f 72 20 66 72 6f 6d 20 68 69 73 20 6c 6f 76 65 </span> or from his love
+       0780  20 74 72 69 75 6e 65 20 77 69 74 68 20 74 68 65 </span>  triune with the
+       0790  6d 2c 0a 44 6f 74 68 2c 20 74 68 72 6f 75 67 68 </span> m,.Doth, through
+       07a0  20 68 69 73 20 62 6f 75 6e 74 79 2c 20 63 6f 6e </span>  his bounty, con
+       07b0  67 72 65 67 61 74 65 20 69 74 73 65 6c 66 2c 0a </span> gregate itself,.
+       07c0  4d 69 72 72 6f 72 27 64 2c 20 61 73 20 27 74 20 </span> Mirror'd, as 't 
+       07d0  77 65 72 65 20 69 6e 20 6e 65 77 20 65 78 69 73 </span> were in new exis
+       07e0  74 65 6e 63 65 73 2c 0a 49 74 73 65 6c 66 20 75 </span> tences,.Itself u
+       07f0  6e 61 6c 74 65 72 61 62 6c 65 20 61 6e 64 20 65 </span> nalterable and e
+       0800  76 65 72 20 6f 6e 65 2e 0a 20 20 20 20 20 22 44 </span> ver one..     "D
+       0810  65 73 63 65 6e 64 69 6e 67 20 68 65 6e 63 65 20 </span> escending hence 
+       0820  75 6e 74 6f 20 74 68 65 20 6c 6f 77 65 73 74 20 </span> unto the lowest 
+       0830  70 6f 77 65 72 73 2c 0a 49 74 73 20 65 6e 65 72 </span> powers,.Its ener
+       0840  67 79 20 73 6f 20 73 69 6e 6b 73 2c 20 61 74 20 </span> gy so sinks, at 
+       0850  6c 61 73 74 20 69 74 20 6d 61 6b 65 73 0a 42 75 </span> last it makes.Bu
+       0860  74 20 62 72 69 65 66 20 63 6f 6e 74 69 6e 67 65 </span> t brief continge
+       0870  6e 63 69 65 73 3a 20 20 66 6f 72 20 73 6f 20 49 </span> ncies:  for so I
+       0880  20 6e 61 6d 65 0a 54 68 69 6e 67 73 20 67 65 6e </span>  name.Things gen
+       0890  65 72 61 74 65 64 2c 20 77 68 69 63 68 20 74 68 </span> erated, which th
+       08a0  65 20 68 65 61 76 27 6e 6c 79 20 6f 72 62 73 0a </span> e heav'nly orbs.
+       08b0  4d 6f 76 69 6e 67 2c 20 77 69 74 68 20 73 65 65 </span> Moving, with see
+       08c0  64 20 6f 72 20 77 69 74 68 6f 75 74 20 73 65 65 </span> d or without see
+       08d0  64 2c 20 70 72 6f 64 75 63 65 2e 0a 54 68 65 69 </span> d, produce..Thei
+       08e0  72 20 77 61 78 2c 20 61 6e 64 20 74 68 61 74 20 </span> r wax, and that 
+       08f0  77 68 69 63 68 20 6d 6f 6c 64 73 20 69 74 2c 20 </span> which molds it, 
+       0900  64 69 66 66 65 72 20 6d 75 63 68 3a 0a 41 6e 64 </span> differ much:.And
+       0910  20 74 68 65 6e 63 65 20 77 69 74 68 20 6c 75 73 </span>  thence with lus
+       0920  74 72 65 2c 20 6d 6f 72 65 20 6f 72 20 6c 65 73 </span> tre, more or les
+       0930  73 2c 20 69 74 20 73 68 6f 77 73 0a 54 68 27 20 </span> s, it shows.Th' 
+       0940  69 64 65 61 6c 20 73 74 61 6d 70 20 69 6d 70 72 </span> ideal stamp impr
+       0950  65 73 73 3a 20 73 6f 20 74 68 61 74 20 6f 6e 65 </span> ess: so that one
+       0960  20 74 72 65 65 0a 41 63 63 6f 72 64 69 6e 67 20 </span>  tree.According 
+       0970  74 6f 20 68 69 73 20 6b 69 6e 64 2c 20 68 61 74 </span> to his kind, hat
+       0980  68 20 62 65 74 74 65 72 20 66 72 75 69 74 2c 0a </span> h better fruit,.
+       0990  41 6e 64 20 77 6f 72 73 65 3a 20 61 6e 64 2c 20 </span> And worse: and, 
+       09a0  61 74 20 79 6f 75 72 20 62 69 72 74 68 2c 20 79 </span> at your birth, y
+       09b0  65 2c 20 6d 6f 72 74 61 6c 20 6d 65 6e 2c 0a 41 </span> e, mortal men,.A
+       09c0  72 65 20 69 6e 20 79 6f 75 72 20 74 61 6c 65 6e </span> re in your talen
+       09d0  74 73 20 76 61 72 69 6f 75 73 2e 20 20 57 65 72 </span> ts various.  Wer
+       09e0  65 20 74 68 65 20 77 61 78 0a 4d 6f 6c 64 65 64 </span> e the wax.Molded
+       09f0  20 77 69 74 68 20 6e 69 63 65 20 65 78 61 63 74 </span>  with nice exact
+       0a00  6e 65 73 73 2c 20 61 6e 64 20 74 68 65 20 68 65 </span> ness, and the he
+       0a10  61 76 27 6e 0a 49 6e 20 69 74 73 20 64 69 73 70 </span> av'n.In its disp
+       0a20  6f 73 69 6e 67 20 69 6e 66 6c 75 65 6e 63 65 20 </span> osing influence 
+       0a30  73 75 70 72 65 6d 65 2c 0a 54 68 65 20 6c 75 73 </span> supreme,.The lus
+       0a40  74 72 65 20 6f 66 20 74 68 65 20 73 65 61 6c 20 </span> tre of the seal 
+       0a50  73 68 6f 75 6c 64 20 62 65 20 63 6f 6d 70 6c 65 </span> should be comple
+       0a60  74 65 3a 0a 42 75 74 20 6e 61 74 75 72 65 20 72 </span> te:.But nature r
+       0a70  65 6e 64 65 72 73 20 69 74 20 69 6d 70 65 72 66 </span> enders it imperf
+       0a80  65 63 74 20 65 76 65 72 2c 0a 52 65 73 65 6d 62 </span> ect ever,.Resemb
+       0a90  6c 69 6e 67 20 74 68 75 73 20 74 68 65 20 61 72 </span> ling thus the ar
+       0aa0  74 69 73 74 20 69 6e 20 68 65 72 20 77 6f 72 6b </span> tist in her work
+       0ab0  2c 0a 57 68 6f 73 65 20 66 61 75 6c 74 65 72 69 </span> ,.Whose faulteri
+       0ac0  6e 67 20 68 61 6e 64 20 69 73 20 66 61 69 74 68 </span> ng hand is faith
+       0ad0  6c 65 73 73 20 74 6f 20 68 69 73 20 73 6b 69 6c </span> less to his skil
+       0ae0  6c 2e 0a 48 6f 77 65 27 65 72 2c 20 69 66 20 6c </span> l..Howe'er, if l
+       0af0  6f 76 65 20 69 74 73 65 6c 66 20 64 69 73 70 6f </span> ove itself dispo
+       0b00  73 65 2c 20 61 6e 64 20 6d 61 72 6b 0a 54 68 65 </span> se, and mark.The
+       0b10  20 70 72 69 6d 61 6c 20 76 69 72 74 75 65 2c 20 </span>  primal virtue, 
+       0b20  6b 69 6e 64 6c 69 6e 67 20 77 69 74 68 20 62 72 </span> kindling with br
+       0b30  69 67 68 74 20 76 69 65 77 2c 0a 54 68 65 72 65 </span> ight view,.There
+       0b40  20 61 6c 6c 20 70 65 72 66 65 63 74 69 6f 6e 20 </span>  all perfection 
+       0b50  69 73 20 76 6f 75 63 68 73 61 66 65 64 3b 20 61 </span> is vouchsafed; a
+       0b60  6e 64 20 73 75 63 68 0a 54 68 65 20 63 6c 61 79 </span> nd such.The clay
+       0b70  20 77 61 73 20 6d 61 64 65 2c 20 61 63 63 6f 6d </span>  was made, accom
+       0b80  70 6c 69 73 68 27 64 20 77 69 74 68 20 65 61 63 </span> plish'd with eac
+       0b90  68 20 67 69 66 74 2c 0a 54 68 61 74 20 6c 69 66 </span> h gift,.That lif
+       0ba0  65 20 63 61 6e 20 74 65 65 6d 20 77 69 74 68 3b </span> e can teem with;
+       0bb0  20 73 75 63 68 20 74 68 65 20 62 75 72 64 65 6e </span>  such the burden
+       0bc0  20 66 69 6c 6c 27 64 0a 54 68 65 20 76 69 72 67 </span>  fill'd.The virg
+       0bd0  69 6e 27 73 20 62 6f 73 6f 6d 3a 20 73 6f 20 74 </span> in's bosom: so t
+       0be0  68 61 74 20 49 20 63 6f 6d 6d 65 6e 64 0a 54 68 </span> hat I commend.Th
+       0bf0  79 20 6a 75 64 67 6d 65 6e 74 2c 20 74 68 61 74 </span> y judgment, that
+       0c00  20 74 68 65 20 68 75 6d 61 6e 20 6e 61 74 75 72 </span>  the human natur
+       0c10  65 20 6e 65 27 65 72 0a 57 61 73 20 6f 72 20 63 </span> e ne'er.Was or c
+       0c20  61 6e 20 62 65 2c 20 73 75 63 68 20 61 73 20 69 </span> an be, such as i
+       0c30  6e 20 74 68 65 6d 20 69 74 20 77 61 73 2e 0a 20 </span> n them it was.. 
+       0c40  20 20 20 20 22 44 69 64 20 49 20 61 64 76 61 6e </span>     "Did I advan
+       0c50  63 65 20 6e 6f 20 66 75 72 74 68 65 72 20 74 68 </span> ce no further th
+       0c60  61 6e 20 74 68 69 73 20 70 6f 69 6e 74 2c 0a 27 </span> an this point,.'
+       0c70  48 6f 77 20 74 68 65 6e 20 68 61 64 20 68 65 20 </span> How then had he 
+       0c80  6e 6f 20 70 65 65 72 3f 27 20 20 74 68 6f 75 20 </span> no peer?'  thou 
+       0c90  6d 69 67 68 74 27 73 74 20 72 65 70 6c 79 2e 0a </span> might'st reply..
+       0ca0  42 75 74 2c 20 74 68 61 74 20 77 68 61 74 20 6e </span> But, that what n
+       0cb0  6f 77 20 61 70 70 65 61 72 73 20 6e 6f 74 2c 20 </span> ow appears not, 
+       0cc0  6d 61 79 20 61 70 70 65 61 72 0a 52 69 67 68 74 </span> may appear.Right
+       0cd0  20 70 6c 61 69 6e 6c 79 2c 20 70 6f 6e 64 65 72 </span>  plainly, ponder
+       0ce0  2c 20 77 68 6f 20 68 65 20 77 61 73 2c 20 61 6e </span> , who he was, an
+       0cf0  64 20 77 68 61 74 0a 28 57 68 65 6e 20 68 65 20 </span> d what.(When he 
+       0d00  77 61 73 20 62 69 64 64 65 6e 20 27 41 73 6b 27 </span> was bidden 'Ask'
+       0d10  20 29 2c 20 74 68 65 20 6d 6f 74 69 76 65 20 73 </span>  ), the motive s
+       0d20  77 61 79 27 64 0a 54 6f 20 68 69 73 20 72 65 71 </span> way'd.To his req
+       0d30  75 65 73 74 69 6e 67 2e 20 20 49 20 68 61 76 65 </span> uesting.  I have
+       0d40  20 73 70 6f 6b 65 6e 20 74 68 75 73 2c 0a 54 68 </span>  spoken thus,.Th
+       0d50  61 74 20 74 68 6f 75 20 6d 61 79 73 74 20 73 65 </span> at thou mayst se
+       0d60  65 2c 20 68 65 20 77 61 73 20 61 20 6b 69 6e 67 </span> e, he was a king
+       0d70  2c 20 77 68 6f 20 61 73 6b 27 64 0a 46 6f 72 20 </span> , who ask'd.For 
+       0d80  77 69 73 64 6f 6d 2c 20 74 6f 20 74 68 65 20 65 </span> wisdom, to the e
+       0d90  6e 64 20 68 65 20 6d 69 67 68 74 20 62 65 20 6b </span> nd he might be k
+       0da0  69 6e 67 0a 53 75 66 66 69 63 69 65 6e 74 3a 20 </span> ing.Sufficient: 
+       0db0  6e 6f 74 20 74 68 65 20 6e 75 6d 62 65 72 20 74 </span> not the number t
+       0dc0  6f 20 73 65 61 72 63 68 20 6f 75 74 0a 4f 66 20 </span> o search out.Of 
+       0dd0  74 68 65 20 63 65 6c 65 73 74 69 61 6c 20 6d 6f </span> the celestial mo
+       0de0  76 65 72 73 3b 20 6f 72 20 74 6f 20 6b 6e 6f 77 </span> vers; or to know
+       0df0  2c 0a 49 66 20 6e 65 63 65 73 73 61 72 79 20 77 </span> ,.If necessary w
+       0e00  69 74 68 20 63 6f 6e 74 69 6e 67 65 6e 74 20 65 </span> ith contingent e
+       0e10  27 65 72 0a 48 61 76 65 20 6d 61 64 65 20 6e 65 </span> 'er.Have made ne
+       0e20  63 65 73 73 69 74 79 3b 20 6f 72 20 77 68 65 74 </span> cessity; or whet
+       0e30  68 65 72 20 74 68 61 74 0a 42 65 20 67 72 61 6e </span> her that.Be gran
+       0e40  74 65 64 2c 20 74 68 61 74 20 66 69 72 73 74 20 </span> ted, that first 
+       0e50  6d 6f 74 69 6f 6e 20 69 73 3b 20 6f 72 20 69 66 </span> motion is; or if
+       0e60  0a 4f 66 20 74 68 65 20 6d 69 64 20 63 69 72 63 </span> .Of the mid circ
+       0e70  6c 65 20 63 61 6e 2c 20 62 79 20 61 72 74 2c 20 </span> le can, by art, 
+       0e80  62 65 20 6d 61 64 65 0a 54 72 69 61 6e 67 6c 65 </span> be made.Triangle
+       0e90  20 77 69 74 68 20 65 61 63 68 20 63 6f 72 6e 65 </span>  with each corne
+       0ea0  72 2c 20 62 6c 75 6e 74 20 6f 72 20 73 68 61 72 </span> r, blunt or shar
+       0eb0  70 2e 0a 20 20 20 20 20 22 57 68 65 6e 63 65 2c </span> p..     "Whence,
+       0ec0  20 6e 6f 74 69 6e 67 20 74 68 61 74 2c 20 77 68 </span>  noting that, wh
+       0ed0  69 63 68 20 49 20 68 61 76 65 20 73 61 69 64 2c </span> ich I have said,
+       0ee0  20 61 6e 64 20 74 68 69 73 2c 0a 54 68 6f 75 20 </span>  and this,.Thou 
+       0ef0  6b 69 6e 67 6c 79 20 70 72 75 64 65 6e 63 65 20 </span> kingly prudence 
+       0f00  61 6e 64 20 74 68 61 74 20 6b 65 6e 20 6d 61 79 </span> and that ken may
+       0f10  73 74 20 6c 65 61 72 6e 2c 0a 41 74 20 77 68 69 </span> st learn,.At whi
+       0f20  63 68 20 74 68 65 20 64 61 72 74 20 6f 66 20 6d </span> ch the dart of m
+       0f30  79 20 69 6e 74 65 6e 74 69 6f 6e 20 61 69 6d 73 </span> y intention aims
+       0f40  2e 0a 41 6e 64 2c 20 6d 61 72 6b 69 6e 67 20 63 </span> ..And, marking c
+       0f50  6c 65 61 72 6c 79 2c 20 74 68 61 74 20 49 20 74 </span> learly, that I t
+       0f60  6f 6c 64 20 74 68 65 65 2c 20 27 52 69 73 65 6e </span> old thee, 'Risen
+       0f70  2c 27 0a 54 68 6f 75 20 73 68 61 6c 74 20 64 69 </span> ,'.Thou shalt di
+       0f80  73 63 65 72 6e 20 69 74 20 6f 6e 6c 79 20 68 61 </span> scern it only ha
+       0f90  74 68 20 72 65 73 70 65 63 74 0a 54 6f 20 6b 69 </span> th respect.To ki
+       0fa0  6e 67 73 2c 20 6f 66 20 77 68 6f 6d 20 61 72 65 </span> ngs, of whom are
+       0fb0  20 6d 61 6e 79 2c 20 61 6e 64 20 74 68 65 20 67 </span>  many, and the g
+       0fc0  6f 6f 64 0a 41 72 65 20 72 61 72 65 2e 20 20 57 </span> ood.Are rare.  W
+       0fd0  69 74 68 20 74 68 69 73 20 64 69 73 74 69 6e 63 </span> ith this distinc
+       0fe0  74 69 6f 6e 20 74 61 6b 65 20 6d 79 20 77 6f 72 </span> tion take my wor
+       0ff0  64 73 3b 0a 41 6e 64 20 74 68 65 79 20 6d 61 79 </span> ds;.And they may
+       1000  20 77 65 6c 6c 20 63 6f 6e 73 69 73 74 20 77 69 </span>  well consist wi
+       1010  74 68 20 74 68 61 74 20 77 68 69 63 68 20 74 68 </span> th that which th
+       1020  6f 75 0a 4f 66 20 74 68 65 20 66 69 72 73 74 20 </span> ou.Of the first 
+       1030  68 75 6d 61 6e 20 66 61 74 68 65 72 20 64 6f 73 </span> human father dos
+       1040  74 20 62 65 6c 69 65 76 65 2c 0a 41 6e 64 20 6f </span> t believe,.And o
+       1050  66 20 6f 75 72 20 77 65 6c 6c 2d 62 65 6c 6f 76 </span> f our well-belov
+       1060  65 64 2e 20 20 41 6e 64 20 6c 65 74 20 74 68 69 </span> ed.  And let thi
+       1070  73 0a 48 65 6e 63 65 66 6f 72 74 68 20 62 65 20 </span> s.Henceforth be 
+       1080  6c 65 64 20 75 6e 74 6f 20 74 68 79 20 66 65 65 </span> led unto thy fee
+       1090  74 2c 20 74 6f 20 6d 61 6b 65 0a 54 68 65 65 20 </span> t, to make.Thee 
+       10a0  73 6c 6f 77 20 69 6e 20 6d 6f 74 69 6f 6e 2c 20 </span> slow in motion, 
+       10b0  61 73 20 61 20 77 65 61 72 79 20 6d 61 6e 2c 0a </span> as a weary man,.
+       10c0  42 6f 74 68 20 74 6f 20 74 68 65 20 27 79 65 61 </span> Both to the 'yea
+       10d0  27 20 61 6e 64 20 74 6f 20 74 68 65 20 27 6e 61 </span> ' and to the 'na
+       10e0  79 27 20 74 68 6f 75 20 73 65 65 73 74 20 6e 6f </span> y' thou seest no
+       10f0  74 2e 0a 46 6f 72 20 68 65 20 61 6d 6f 6e 67 20 </span> t..For he among 
+       1100  74 68 65 20 66 6f 6f 6c 73 20 69 73 20 64 6f 77 </span> the fools is dow
+       1110  6e 20 66 75 6c 6c 20 6c 6f 77 2c 0a 57 68 6f 73 </span> n full low,.Whos
+       1120  65 20 61 66 66 69 72 6d 61 74 69 6f 6e 2c 20 6f </span> e affirmation, o
+       1130  72 20 64 65 6e 69 61 6c 2c 20 69 73 0a 57 69 74 </span> r denial, is.Wit
+       1140  68 6f 75 74 20 64 69 73 74 69 6e 63 74 69 6f 6e </span> hout distinction
+       1150  2c 20 69 6e 20 65 61 63 68 20 63 61 73 65 20 61 </span> , in each case a
+       1160  6c 69 6b 65 0a 53 69 6e 63 65 20 69 74 20 62 65 </span> like.Since it be
+       1170  66 61 6c 6c 73 2c 20 74 68 61 74 20 69 6e 20 6d </span> falls, that in m
+       1180  6f 73 74 20 69 6e 73 74 61 6e 63 65 73 0a 43 75 </span> ost instances.Cu
+       1190  72 72 65 6e 74 20 6f 70 69 6e 69 6f 6e 20 6c 65 </span> rrent opinion le
+       11a0  61 64 73 20 74 6f 20 66 61 6c 73 65 3a 20 61 6e </span> ads to false: an
+       11b0  64 20 74 68 65 6e 0a 41 66 66 65 63 74 69 6f 6e </span> d then.Affection
+       11c0  20 62 65 6e 64 73 20 74 68 65 20 6a 75 64 67 6d </span>  bends the judgm
+       11d0  65 6e 74 20 74 6f 20 68 65 72 20 70 6c 79 2e 0a </span> ent to her ply..
+       11e0  20 20 20 20 20 22 4d 75 63 68 20 6d 6f 72 65 20 </span>      "Much more 
+       11f0  74 68 61 6e 20 76 61 69 6e 6c 79 20 64 6f 74 68 </span> than vainly doth
+       1200  20 68 65 20 6c 6f 6f 73 65 20 66 72 6f 6d 20 73 </span>  he loose from s
+       1210  68 6f 72 65 2c 0a 53 69 6e 63 65 20 68 65 20 72 </span> hore,.Since he r
+       1220  65 74 75 72 6e 73 20 6e 6f 74 20 73 75 63 68 20 </span> eturns not such 
+       1230  61 73 20 68 65 20 73 65 74 20 66 6f 72 74 68 2c </span> as he set forth,
+       1240  0a 57 68 6f 20 66 69 73 68 65 73 20 66 6f 72 20 </span> .Who fishes for 
+       1250  74 68 65 20 74 72 75 74 68 20 61 6e 64 20 77 61 </span> the truth and wa
+       1260  6e 74 65 74 68 20 73 6b 69 6c 6c 2e 0a 41 6e 64 </span> nteth skill..And
+       1270  20 6f 70 65 6e 20 70 72 6f 6f 66 73 20 6f 66 20 </span>  open proofs of 
+       1280  74 68 69 73 20 75 6e 74 6f 20 74 68 65 20 77 6f </span> this unto the wo
+       1290  72 6c 64 0a 48 61 76 65 20 62 65 65 6e 20 61 66 </span> rld.Have been af
+       12a0  66 6f 72 64 65 64 20 69 6e 20 50 61 72 6d 65 6e </span> forded in Parmen
+       12b0  69 64 65 73 2c 0a 4d 65 6c 69 73 73 75 73 2c 20 </span> ides,.Melissus, 
+       12c0  42 72 79 73 6f 2c 20 61 6e 64 20 74 68 65 20 63 </span> Bryso, and the c
+       12d0  72 6f 77 64 20 62 65 73 69 64 65 2c 0a 57 68 6f </span> rowd beside,.Who
+       12e0  20 6a 6f 75 72 6e 65 79 27 64 20 6f 6e 2c 20 61 </span>  journey'd on, a
+       12f0  6e 64 20 6b 6e 65 77 20 6e 6f 74 20 77 68 69 74 </span> nd knew not whit
+       1300  68 65 72 3a 20 73 6f 20 64 69 64 0a 53 61 62 65 </span> her: so did.Sabe
+       1310  6c 6c 69 75 73 2c 20 41 72 69 75 73 2c 20 61 6e </span> llius, Arius, an
+       1320  64 20 74 68 65 20 6f 74 68 65 72 20 66 6f 6f 6c </span> d the other fool
+       1330  73 2c 0a 57 68 6f 2c 20 6c 69 6b 65 20 74 6f 20 </span> s,.Who, like to 
+       1340  73 63 79 6d 69 74 61 72 73 2c 20 72 65 66 6c 65 </span> scymitars, refle
+       1350  63 74 65 64 20 62 61 63 6b 0a 54 68 65 20 73 63 </span> cted back.The sc
+       1360  72 69 70 74 75 72 65 2d 69 6d 61 67 65 2c 20 62 </span> ripture-image, b
+       1370  79 20 64 69 73 74 6f 72 74 69 6f 6e 20 6d 61 72 </span> y distortion mar
+       1380  72 27 64 2e 0a 20 20 20 20 20 22 4c 65 74 20 6e </span> r'd..     "Let n
+       1390  6f 74 20 74 68 65 20 70 65 6f 70 6c 65 20 62 65 </span> ot the people be
+       13a0  20 74 6f 6f 20 73 77 69 66 74 20 74 6f 20 6a 75 </span>  too swift to ju
+       13b0  64 67 65 2c 0a 41 73 20 6f 6e 65 20 77 68 6f 20 </span> dge,.As one who 
+       13c0  72 65 63 6b 6f 6e 73 20 6f 6e 20 74 68 65 20 62 </span> reckons on the b
+       13d0  6c 61 64 65 73 20 69 6e 20 66 69 65 6c 64 2c 0a </span> lades in field,.
+       13e0  4f 72 20 65 72 65 20 74 68 65 20 63 72 6f 70 20 </span> Or ere the crop 
+       13f0  62 65 20 72 69 70 65 2e 20 20 46 6f 72 20 49 20 </span> be ripe.  For I 
+       1400  68 61 76 65 20 73 65 65 6e 0a 54 68 65 20 74 68 </span> have seen.The th
+       1410  6f 72 6e 20 66 72 6f 77 6e 20 72 75 64 65 6c 79 </span> orn frown rudely
+       1420  20 61 6c 6c 20 74 68 65 20 77 69 6e 74 65 72 20 </span>  all the winter 
+       1430  6c 6f 6e 67 0a 41 6e 64 20 61 66 74 65 72 20 62 </span> long.And after b
+       1440  65 61 72 20 74 68 65 20 72 6f 73 65 20 75 70 6f </span> ear the rose upo
+       1450  6e 20 69 74 73 20 74 6f 70 3b 0a 41 6e 64 20 62 </span> n its top;.And b
+       1460  61 72 6b 2c 20 74 68 61 74 20 61 6c 6c 20 74 68 </span> ark, that all th
+       1470  65 20 77 61 79 20 61 63 72 6f 73 73 20 74 68 65 </span> e way across the
+       1480  20 73 65 61 0a 52 61 6e 20 73 74 72 61 69 67 68 </span>  sea.Ran straigh
+       1490  74 20 61 6e 64 20 73 70 65 65 64 79 2c 20 70 65 </span> t and speedy, pe
+       14a0  72 69 73 68 20 61 74 20 74 68 65 20 6c 61 73 74 </span> rish at the last
+       14b0  2c 0a 45 27 65 6e 20 69 6e 20 74 68 65 20 68 61 </span> ,.E'en in the ha
+       14c0  76 65 6e 27 73 20 6d 6f 75 74 68 20 73 65 65 69 </span> ven's mouth seei
+       14d0  6e 67 20 6f 6e 65 20 73 74 65 61 6c 2c 0a 41 6e </span> ng one steal,.An
+       14e0  6f 74 68 65 72 20 62 72 69 6e 65 2c 20 68 69 73 </span> other brine, his
+       14f0  20 6f 66 66 65 72 69 6e 67 20 74 6f 20 74 68 65 </span>  offering to the
+       1500  20 70 72 69 65 73 74 2c 0a 4c 65 74 20 6e 6f 74 </span>  priest,.Let not
+       1510  20 44 61 6d 65 20 42 69 72 74 68 61 20 61 6e 64 </span>  Dame Birtha and
+       1520  20 53 69 72 20 4d 61 72 74 69 6e 20 74 68 65 6e </span>  Sir Martin then
+       1530  63 65 0a 49 6e 74 6f 20 68 65 61 76 27 6e 27 73 </span> ce.Into heav'n's
+       1540  20 63 6f 75 6e 73 65 6c 73 20 64 65 65 6d 20 74 </span>  counsels deem t
+       1550  68 61 74 20 74 68 65 79 20 63 61 6e 20 70 72 79 </span> hat they can pry
+       1560  3a 0a 46 6f 72 20 6f 6e 65 20 6f 66 20 74 68 65 </span> :.For one of the
+       1570  73 65 20 6d 61 79 20 72 69 73 65 2c 20 74 68 65 </span> se may rise, the
+       1580  20 6f 74 68 65 72 20 66 61 6c 6c 2e 22 0a 0a 0a </span>  other fall."...
+       1590  0a 43 41 4e 54 4f 20 58 49 56 0a 0a 46 72 6f 6d </span> .CANTO XIV..From
+       15a0  20 63 65 6e 74 72 65 20 74 6f 20 74 68 65 20 63 </span>  centre to the c
+       15b0  69 72 63 6c 65 2c 20 61 6e 64 20 73 6f 20 62 61 </span> ircle, and so ba
+       15c0  63 6b 0a 46 72 6f 6d 20 63 69 72 63 6c 65 20 74 </span> ck.From circle t
+       15d0  6f 20 74 68 65 20 63 65 6e 74 72 65 2c 20 77 61 </span> o the centre, wa
+       15e0  74 65 72 20 6d 6f 76 65 73 0a 49 6e 20 74 68 65 </span> ter moves.In the
+       15f0  20 72 6f 75 6e 64 20 63 68 61 6c 69 63 65 2c 20 </span>  round chalice, 
+       1600  65 76 65 6e 20 61 73 20 74 68 65 20 62 6c 6f 77 </span> even as the blow
+       1610  0a 49 6d 70 65 6c 73 20 69 74 2c 20 69 6e 77 61 </span> .Impels it, inwa
+       1620  72 64 6c 79 2c 20 6f 72 20 66 72 6f 6d 20 77 69 </span> rdly, or from wi
+       1630  74 68 6f 75 74 2e 0a 53 75 63 68 20 77 61 73 20 </span> thout..Such was 
+       1640  74 68 65 20 69 6d 61 67 65 20 67 6c 61 6e 63 27 </span> the image glanc'
+       1650  64 20 69 6e 74 6f 20 6d 79 20 6d 69 6e 64 2c 0a </span> d into my mind,.
+       1660  41 73 20 74 68 65 20 67 72 65 61 74 20 73 70 69 </span> As the great spi
+       1670  72 69 74 20 6f 66 20 41 71 75 69 6e 75 6d 20 63 </span> rit of Aquinum c
+       1680  65 61 73 27 64 3b 0a 41 6e 64 20 42 65 61 74 72 </span> eas'd;.And Beatr
+       1690  69 63 65 20 61 66 74 65 72 20 68 69 6d 20 68 65 </span> ice after him he
+       16a0  72 20 77 6f 72 64 73 0a 52 65 73 75 6d 27 64 20 </span> r words.Resum'd 
+       16b0  61 6c 74 65 72 6e 61 74 65 3a 20 20 22 4e 65 65 </span> alternate:  "Nee
+       16c0  64 20 74 68 65 72 65 20 69 73 20 28 74 68 6f 27 </span> d there is (tho'
+       16d0  20 79 65 74 0a 48 65 20 74 65 6c 6c 73 20 69 74 </span>  yet.He tells it
+       16e0  20 74 6f 20 79 6f 75 20 6e 6f 74 20 69 6e 20 77 </span>  to you not in w
+       16f0  6f 72 64 73 2c 20 6e 6f 72 20 65 27 65 6e 0a 49 </span> ords, nor e'en.I
+       1700  6e 20 74 68 6f 75 67 68 74 29 20 74 68 61 74 20 </span> n thought) that 
+       1710  68 65 20 73 68 6f 75 6c 64 20 66 61 74 68 6f 6d </span> he should fathom
+       1720  20 74 6f 20 69 74 73 20 64 65 70 74 68 0a 41 6e </span>  to its depth.An
+       1730  6f 74 68 65 72 20 6d 79 73 74 65 72 79 2e 20 20 </span> other mystery.  
+       1740  54 65 6c 6c 20 68 69 6d 2c 20 69 66 20 74 68 65 </span> Tell him, if the
+       1750  20 6c 69 67 68 74 2c 0a 57 68 65 72 65 77 69 74 </span>  light,.Wherewit
+       1760  68 20 79 6f 75 72 20 73 75 62 73 74 61 6e 63 65 </span> h your substance
+       1770  20 62 6c 6f 6f 6d 73 2c 20 73 68 61 6c 6c 20 73 </span>  blooms, shall s
+       1780  74 61 79 20 77 69 74 68 20 79 6f 75 0a 45 74 65 </span> tay with you.Ete
+       1790  72 6e 61 6c 6c 79 2c 20 61 73 20 6e 6f 77 3a 20 </span> rnally, as now: 
+       17a0  61 6e 64 2c 20 69 66 20 69 74 20 64 6f 74 68 2c </span> and, if it doth,
+       17b0  0a 48 6f 77 2c 20 77 68 65 6e 20 79 65 20 73 68 </span> .How, when ye sh
+       17c0  61 6c 6c 20 72 65 67 61 69 6e 20 79 6f 75 72 20 </span> all regain your 
+       17d0  76 69 73 69 62 6c 65 20 66 6f 72 6d 73 2c 0a 54 </span> visible forms,.T
+       17e0  68 65 20 73 69 67 68 74 20 6d 61 79 20 77 69 74 </span> he sight may wit
+       17f0  68 6f 75 74 20 68 61 72 6d 20 65 6e 64 75 72 65 </span> hout harm endure
+       1800  20 74 68 65 20 63 68 61 6e 67 65 2c 0a 54 68 61 </span>  the change,.Tha
+       1810  74 20 61 6c 73 6f 20 74 65 6c 6c 2e 22 20 20 41 </span> t also tell."  A
+       1820  73 20 74 68 6f 73 65 2c 20 77 68 6f 20 69 6e 20 </span> s those, who in 
+       1830  61 20 72 69 6e 67 0a 54 72 65 61 64 20 74 68 65 </span> a ring.Tread the
+       1840  20 6c 69 67 68 74 20 6d 65 61 73 75 72 65 2c 20 </span>  light measure, 
+       1850  69 6e 20 74 68 65 69 72 20 66 69 74 66 75 6c 20 </span> in their fitful 
+       1860  6d 69 72 74 68 0a 52 61 69 73 65 20 6c 6f 75 64 </span> mirth.Raise loud
+       1870  20 74 68 65 20 76 6f 69 63 65 2c 20 61 6e 64 20 </span>  the voice, and 
+       1880  73 70 72 69 6e 67 20 77 69 74 68 20 67 6c 61 64 </span> spring with glad
+       1890  64 65 72 20 62 6f 75 6e 64 3b 0a 54 68 75 73 2c </span> der bound;.Thus,
+       18a0  20 61 74 20 74 68 65 20 68 65 61 72 69 6e 67 20 </span>  at the hearing 
+       18b0  6f 66 20 74 68 61 74 20 70 69 6f 75 73 20 73 75 </span> of that pious su
+       18c0  69 74 2c 0a 54 68 65 20 73 61 69 6e 74 6c 79 20 </span> it,.The saintly 
+       18d0  63 69 72 63 6c 65 73 20 69 6e 20 74 68 65 69 72 </span> circles in their
+       18e0  20 74 6f 75 72 6e 65 79 69 6e 67 0a 41 6e 64    </span>  tourneying.And
+       
